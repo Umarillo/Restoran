@@ -336,13 +336,3 @@ body {
   display: flex;
   justify-content: center;
 }
-.coment {
-    background-color: #E5E5E5;
-    padding-top: 104px;
-    padding-bottom: 139px;
-}
-.coment-text {
-    text-align: center;
-    font-style: italic;
-    margin-bottom: 20px;
-}
